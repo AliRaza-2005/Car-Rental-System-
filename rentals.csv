@@ -1,0 +1,1 @@
+id,reservation_id,customer_id,vehicle_id,start_date,due_date,return_date,status,total_amount,late_fee,damage_fee,fuel_fee

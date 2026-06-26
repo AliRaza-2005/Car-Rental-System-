@@ -1,0 +1,4 @@
+id,role,username,password,name,email,phone,license,blacklisted
+1,admin,admin,admin123,Admin,admin@rentals.com,0000000000,,False
+2,employee,employee,emp123,Employee,employee@rentals.com,1111111111,,False
+3,customer,Ali,Ali Raza 112233,Ali Raza,alipak2324@gmail.com,03416111626,1122,False
